@@ -1,7 +1,7 @@
 ![GithubCover](https://user-images.githubusercontent.com/33527005/156520322-f3b34c86-4148-4221-9a0f-be65b647b03f.png)
 
 <hr/>
-<p><b>I'm a recent Software Engineering grad, looking to do Front-End development, QA, Security, and/or UI/UX work.</b></p>
+<p><b>I'm a recent Software Engineering grad, currently working with Full-Stack development.</b></p>
 <p>
   I've still got a lot to learn, so I'm working on refining my skills and expanding my toolset. However, when working on any project, I 
   do strive to produce quality code with thorough testing protocols to ensure the smoothest interactions for the users.   
